@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ogden/Documents/IMTS/GitRepo/Digital-Twin-Cities/UnrealEngineProject/PuzzleCityBuilder/Content/Meshes/GridTile.uasset",
+				"C:/Users/ogden/Documents/IMTS/GitRepo/Digital-Twin-Cities/UnrealEngineProject/PuzzleCityBuilder/Content/Materials/Mat_Tile.uasset",
+				"C:/Users/ogden/Documents/IMTS/GitRepo/Digital-Twin-Cities/UnrealEngineProject/PuzzleCityBuilder/Content/BP/HexagonGrid.uasset",
+				"C:/Users/ogden/Documents/IMTS/GitRepo/Digital-Twin-Cities/UnrealEngineProject/PuzzleCityBuilder/Content/__ExternalActors__/Levels/TileBuildingLevel/2/PS/XI3OZJQ0BP3T2O3X5WNAU1.uasset",
 				"C:/Uni/Year 4/IMTandS/GIT/Digital Twin Cities/UnrealEngineProject/PuzzleCityBuilder/Content/Enums/TileState.uasset",
 				"C:/Uni/Year 4/IMTandS/GIT/Digital Twin Cities/UnrealEngineProject/PuzzleCityBuilder/Content/Levels/TileBuildingLevel_HLOD0_Instancing.uasset",
 				"C:/Uni/Year 4/IMTandS/GIT/Digital Twin Cities/UnrealEngineProject/PuzzleCityBuilder/Content/__ExternalActors__/Levels/TileBuildingLevel/1/2F/P48GFFZO4HZ518ST78VGXF.uasset",
