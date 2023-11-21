@@ -67,10 +67,12 @@ UnrealEngineProject/PuzzleCityBuilder/Build/*/**
 UnrealEngineProject/PuzzleCityBuilder/Saved/*
 
 # Compiled source files for the engine to use
-UnrealEngineProject/PuzzleCityBuilder/Intermediate/*
+*UnrealEngineProject/PuzzleCityBuilder/Intermediate/*
 UnrealEngineProject/PuzzleCityBuilder/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 UnrealEngineProject/PuzzleCityBuilder/DerivedDataCache/*
 
 UnrealEngineProject/PuzzleCityBuilder/Saved/
+
+UnrealEngineProject/PuzzleCityBuilder/Intermediate/
