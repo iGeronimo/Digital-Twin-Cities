@@ -15,7 +15,7 @@ def enableTextField(value):
 
 def openFileBrowser():
 	global filePath
-	filePath = cmds.fileDialog2(fileMode=0)[0]
+	filePath = cmds.fileDialog2(fileMode=0, fileFilter="FBX export (*.fbx)")[0]
 	cmds.textField("exportPath", edit=True, text=filePath)
 
 def executeScript(moveObjects, exportObjects, returnObjects, *args):
