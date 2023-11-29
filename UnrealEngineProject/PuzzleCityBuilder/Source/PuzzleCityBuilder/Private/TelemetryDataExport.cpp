@@ -26,8 +26,7 @@ void ATelemetryDataExport::Tick(float DeltaTime)
 
 }
 
-void ATelemetryDataExport::ExportTelemetryData(const FString InputData)
+void ATelemetryDataExport::ExportTelemetryData(TArray<FString> InputData, const FString FileName, FDirectoryPath ExportPath)
 {
-	FFileHelper::SaveStringToFile(InputData, *FPaths::ProjectContentDir().Append("/TelemetryData/test.txt"));
-	UE_LOG(LogTemp, Warning, TEXT("Telemetry data exported"))
+	FFileHelper::SaveStringArrayToFile(InputData, *ExportPath.Path.Append("/" + FileName + ".txt"));
 }

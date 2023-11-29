@@ -24,5 +24,5 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UFUNCTION(BlueprintCallable)
-	void ExportTelemetryData(const FString InputData);
+	void ExportTelemetryData(TArray<FString> InputData, const FString FileName, FDirectoryPath ExportPath);
 };
