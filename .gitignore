@@ -75,4 +75,6 @@ UnrealEngineProject/PuzzleCityBuilder/DerivedDataCache/*
 
 UnrealEngineProject/PuzzleCityBuilder/Saved/
 
+!UnrealEngineProject/PuzzleCityBuilder/Saved/SaveGames/
+
 UnrealEngineProject/PuzzleCityBuilder/Intermediate/
